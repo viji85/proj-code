@@ -1,1 +1,3 @@
-testing merge conflict dev2 and dev1
+
+demo c1 code change
+ merge conflict dev2 and dev1
